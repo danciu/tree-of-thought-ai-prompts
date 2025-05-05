@@ -1,3 +1,7 @@
 # Tree of Thought (ToT) AI Prompts
 
-Some of the prompts are based on/variations of the work of [dave1010](https://github.com/dave1010/tree-of-thought-prompting/blob/main/tree-of-thought-prompts.txt)
+## Original prompts:
+- [Experts Panel](https://github.com/danciu/tree-of-thought-ai-prompts/blob/main/experts-panel.md)
+
+## Prompts based on existing work
+- None yet committed here - `LICENSE` to be changed and authors mentioned accordingly when such will be added.
