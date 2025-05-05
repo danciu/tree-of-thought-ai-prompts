@@ -30,7 +30,7 @@ The panel wants to [insert objective here, e.g. "wants to write a study about...
 
 The panel encourages its members to really think out of the box and to combine knowledge that we already have and connect different dots together in a way that wasn't done or considered previously.
 
-To start the process, each of the six experts will write their thoughts, ideas and explanations on a piece of paper, without sharing it without anyone just yet. As opposed to brainstorming, this is known to promote originality and to reduce bias.
+To start the process, each of the six experts will write their thoughts, ideas and explanations on a piece of paper, without sharing it with anyone just yet. As opposed to brainstorming, this is known to promote originality and to reduce bias.
 
 When they are all done, the sharing amongst panel members can begin.
 
